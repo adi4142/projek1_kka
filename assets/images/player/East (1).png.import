@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqjhytlmrtgmj"
-path="res://.godot/imported/Beach_Tile.png-1e0fd151b54732b217221d2ad1670daf.ctex"
+uid="uid://casmx2ryn6kmi"
+path="res://.godot/imported/East (1).png-f89df8d0b94a6546511f75c1a7aff08d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Cute_Fantasy_Free/Cute_Fantasy_Free/Tiles/Beach_Tile.png"
-dest_files=["res://.godot/imported/Beach_Tile.png-1e0fd151b54732b217221d2ad1670daf.ctex"]
+source_file="res://assets/images/player/East (1).png"
+dest_files=["res://.godot/imported/East (1).png-f89df8d0b94a6546511f75c1a7aff08d.ctex"]
 
 [params]
 

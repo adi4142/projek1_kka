@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dno7f78f4e8vl"
-path="res://.godot/imported/Skeleton.png-9123c690c2c27dfcdb6ac6dfd00a74ff.ctex"
+uid="uid://bso6s3up37vgv"
+path="res://.godot/imported/North (1).png-8a9753ad651a4f4223c1b30487cd7b69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Cute_Fantasy_Free/Cute_Fantasy_Free/Enemies/Skeleton.png"
-dest_files=["res://.godot/imported/Skeleton.png-9123c690c2c27dfcdb6ac6dfd00a74ff.ctex"]
+source_file="res://assets/images/player/North (1).png"
+dest_files=["res://.godot/imported/North (1).png-8a9753ad651a4f4223c1b30487cd7b69.ctex"]
 
 [params]
 

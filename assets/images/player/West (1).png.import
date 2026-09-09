@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2uss7lyo31nl"
-path="res://.godot/imported/Cliff_Tile.png-e1bfe61f9701214c7f0f43063aa29f70.ctex"
+uid="uid://coiisv8608w62"
+path="res://.godot/imported/West (1).png-823ef7d740656b993375771785e25d79.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Cute_Fantasy_Free/Cute_Fantasy_Free/Tiles/Cliff_Tile.png"
-dest_files=["res://.godot/imported/Cliff_Tile.png-e1bfe61f9701214c7f0f43063aa29f70.ctex"]
+source_file="res://assets/images/player/West (1).png"
+dest_files=["res://.godot/imported/West (1).png-823ef7d740656b993375771785e25d79.ctex"]
 
 [params]
 
