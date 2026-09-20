@@ -1,9 +1,14 @@
 [gd_scene format=3 uid="uid://0kuoprtdyrf1"]
 
+[ext_resource type="PackedScene" uid="uid://cxtkkr5r8w444" path="res://assets/scenes/levels/base_level.tscn" id="1_kpi06"]
 [ext_resource type="PackedScene" uid="uid://dpiar4i31xb07" path="res://assets/images/player/player.tscn" id="1_mr7gh"]
 
 [node name="Main" type="Node2D" unique_id=1271905509]
 
-[node name="Player" parent="." unique_id=324355624 instance=ExtResource("1_mr7gh")]
-position = Vector2(157, 67)
+[node name="LevelRoot" parent="." unique_id=382491437 instance=ExtResource("1_kpi06")]
+position = Vector2(22, 64)
 scale = Vector2(3, 3)
+
+[node name="Player" parent="." unique_id=324355624 instance=ExtResource("1_mr7gh")]
+position = Vector2(103, 112)
+scale = Vector2(3.5, 3.5)
