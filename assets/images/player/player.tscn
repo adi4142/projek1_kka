@@ -251,3 +251,5 @@ script = ExtResource("1_b2ow3")
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_ywtyo")
 animation = &"idle_right"
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1638290715]

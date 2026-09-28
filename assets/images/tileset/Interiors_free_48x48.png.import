@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kvj81082uayk"
-path="res://.godot/imported/InteriorTilesLITE.png-46933d88c282088714588436e0a44d39.ctex"
+uid="uid://crbsvnsi70w2e"
+path="res://.godot/imported/Interiors_free_48x48.png-a1b9fe6362a54e41e77b13aadc9ecc61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/tileset/InteriorTilesLITE.png"
-dest_files=["res://.godot/imported/InteriorTilesLITE.png-46933d88c282088714588436e0a44d39.ctex"]
+source_file="res://assets/images/tileset/Interiors_free_48x48.png"
+dest_files=["res://.godot/imported/Interiors_free_48x48.png-a1b9fe6362a54e41e77b13aadc9ecc61.ctex"]
 
 [params]
 
