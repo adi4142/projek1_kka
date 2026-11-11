@@ -244,7 +244,11 @@ animations = [{
 "speed": 5.0
 }]
 
-[node name="Player" type="CharacterBody2D" unique_id=324355624]
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ywtyo"]
+size = Vector2(15, 29)
+
+[node name="player" type="CharacterBody2D" unique_id=324355624]
+scale = Vector2(3.5, 3.5)
 script = ExtResource("1_b2ow3")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1740452127]
@@ -253,3 +257,7 @@ sprite_frames = SubResource("SpriteFrames_ywtyo")
 animation = &"idle_right"
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1638290715]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=569545355]
+position = Vector2(-0.5, 0.5)
+shape = SubResource("RectangleShape2D_ywtyo")

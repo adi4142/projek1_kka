@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://d058pfos0h0p6"]
+
+[ext_resource type="Texture2D" uid="uid://cx4iltis01wa3" path="res://assets/images/enemies/Farel Airlangga.png" id="1_sk4je"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ywtyo"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=794047690]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=739518963]
+position = Vector2(1.9999962, -4)
+scale = Vector2(0.022650298, 0.027730739)
+texture = ExtResource("1_sk4je")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=654061518]
+shape = SubResource("CircleShape2D_ywtyo")
